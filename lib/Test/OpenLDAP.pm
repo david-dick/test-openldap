@@ -12,7 +12,7 @@ use URI::Escape();
 use Net::LDAP();
 use English qw( -no_match_vars );
 
-our $VERSION = '0.71';
+our $VERSION = '0.72';
 
 our @CARP_NOT = ('Test::OpenLDAP');
 sub OPENLDAP_SLAPD_BINARY_NAME         { return 'slapd' }
@@ -1845,7 +1845,7 @@ Test::OpenLDAP - Creates a temporary instance of OpenLDAP's slapd daemon to run 
 
 =head1 VERSION
 
-Version 0.71
+Version 0.72
 
 =head1 SYNOPSIS
 

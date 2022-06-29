@@ -4,7 +4,7 @@ Test::OpenLDAP - Creates a temporary instance of OpenLDAP's slapd daemon to run 
 
 # VERSION
 
-Version 0.71
+Version 0.72
 
 # SYNOPSIS
 
